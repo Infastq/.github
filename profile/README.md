@@ -1,13 +1,3 @@
-# De Emsis
-
-De Emsis is a group of people enthusiastic about the world of technology. We are undergraduate students from the Bandung Institute of Technology. De Emsis consists of 3 members:
-
-- Ahmad Rizki
-- Nazhif Haidar
-- Farhan Algani
-
----
-
 # INFastQ
 
 ## About
